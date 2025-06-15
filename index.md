@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+Ramblings:  random thoughts and comments
 ---
